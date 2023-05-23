@@ -1,15 +1,14 @@
-<h1>Hi, I'm Amber! <br/><a href="https://github.com/joshmadakor1">Student</a>
+<h1>Hi, I'm Amber! <br/><a href="https://github.com/joshmadakor1">Computer Engineering Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Speech to Text](https://github.com/ButteredBisc/SpeechToText/)
+  - 
 - <b>Java</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - 
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
