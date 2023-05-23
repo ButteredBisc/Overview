@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amber! <br/><a href="https://github.com/joshmadakor1">Computer Engineering Student</a>
+<h1>Hi, I'm Amber! <br/><a href="https://github.com/ButteredBisc">Computer Engineering Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
