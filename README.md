@@ -1,9 +1,10 @@
 <h1>Hi, I'm Amber! <br/><a href="https://github.com/ButteredBisc">Computer Engineering Student</a>
 
 <h2>👨‍💻 Projects:</h2>
+
 - <b>C# (.NET Desktop Applications)</b>
   - [Speech to Text](https://github.com/ButteredBisc/SpeechToText/)
-  - 
+    
 - <b>Java</b>
   - [Air Quality Checker](https://github.com/ButteredBisc/AirQualityChecker)
 
