@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amber! <br/><a href="https://github.com/ButteredBisc">Computer Engineering Student</a>
+<h1>Hi, I'm Amber! <br/><a href="https://github.com/LongAmber">Computer Engineering Student</a>
 <h2>🌱 Summary </h2>
 
   I'm a soon to be graduate, May 2024! With a passion for problem solving and Computer Science. I have experience in Backend Development with Java and Integration Testing using AWS and Cloud Computing. I'm also open to learning new things and expand my knowledge.
@@ -8,14 +8,14 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Speech to Text](https://github.com/ButteredBisc/SpeechToText/)
-  - [File Transfer Server](https://github.com/ButteredBisc/FTP_Server)
+  - [Speech to Text](https://github.com/LongAmber/SpeechToText/)
+  - [File Transfer Server](https://github.com/LongAmber/FTP_Server)
     
 - <b>Java</b>
-  - [Air Quality Checker](https://github.com/ButteredBisc/AirQualityChecker) (Backend)(API)
+  - [Air Quality Checker](https://github.com/LongAmber/AirQualityChecker) (Backend)(API)
 
 - <b>C++</b>
-  - [File Transfer Client](https://github.com/ButteredBisc/FTP_Client)
+  - [File Transfer Client](https://github.com/LongAmber/FTP_Client)
     
 <h2> 🤳 Connect with me:</h2> 
 <h5>longamber613@gmail.com</h4>
