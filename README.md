@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amber! <br/><a href="https://github.com/LongAmber">Computer Engineering Student</a>
+<h1>Hi, I'm Amber! <br/><a href="https://github.com/LongAmber"> BS Computer Engineering | Recent Graduate  </a>
 <h2>🌱 Summary </h2>
 
   I'm a soon to be graduate, May 2024! With a passion for problem solving and Computer Science. I have experience in Backend Development with Java and Integration Testing using AWS and Cloud Computing. I'm also open to learning new things and expand my knowledge.
