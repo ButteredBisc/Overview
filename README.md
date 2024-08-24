@@ -8,6 +8,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
+  - [Damage Scanning Drone](https://github.com/LongAmber/DamageScanningDrone/blob/main/README.md)
   - [Speech to Text](https://github.com/LongAmber/SpeechToText/)
   - [File Transfer Server](https://github.com/LongAmber/FTP_Server)
     
