@@ -1,9 +1,9 @@
 <h1>Hi, I'm Amber! <br/><a href="https://github.com/LongAmber"> BS Computer Engineering | Recent Graduate  </a>
 <h2>🌱 Summary </h2>
 
-  I'm a soon to be graduate, May 2024! With a passion for problem solving and Computer Science. I have experience in Backend Development with Java and Integration Testing using AWS and Cloud Computing. I'm also open to learning new things and expand my knowledge.
+  Recent Grad, with a passion for problem solving and Computer Science. I have experience in Backend Development with Java and Integration Testing using AWS and Cloud Computing. I'm also open to learning new things and expand my knowledge.
  
-  I'm currently looking for a full-time position upon graduation. Feel free to check out some of my projects.
+  I'm currently looking for a full-time position. Feel free to check out some of my projects.
   
 <h2>👨‍💻 Projects:</h2>
 
